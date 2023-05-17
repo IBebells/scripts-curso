@@ -1,0 +1,5 @@
+conversao-jpg-png.sh: linha 4: cd: /home/silas/Downloads/imagens-livrao: Arquivo ou diretório inexistente
+ls: não foi possível acessar '*.jpg': Arquivo ou diretório inexistente
+convert-im6.q16: unable to open image `.jpg': Arquivo ou diretório inexistente @ error/blob.c/OpenBlob/2874.
+convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
+convert-im6.q16: no images defined `png/.png' @ error/convert.c/ConvertImageCommand/3258.
